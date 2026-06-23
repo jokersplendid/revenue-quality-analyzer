@@ -1,0 +1,59 @@
+﻿{
+  "generated_at": "2026-06-23T23:31:48",
+  "revenue_input": "assets\\sample_fund_fee_revenue.csv",
+  "ledger_input": "assets\\sample_revenue_ledger.csv",
+  "out_dir": "reports_llm_generic",
+  "llm_requested": true,
+  "llm_model": "deepseek-v4-pro",
+  "insight_source": "llm",
+  "chart_source": "LLM 通用图表规格",
+  "record_count": 20,
+  "selected_sample_count": 8,
+  "charts": [
+    {
+      "title": "收入质量分层占比",
+      "chart_type": "donut",
+      "metric": "recognized_revenue",
+      "dimension": "quality_segment",
+      "breakdown": "",
+      "path": "charts/1_donut_quality_segment_recognized_revenue.svg",
+      "insight_index": "1"
+    },
+    {
+      "title": "月度收入趋势与期末暴增",
+      "chart_type": "line",
+      "metric": "recognized_revenue",
+      "dimension": "period",
+      "breakdown": "",
+      "path": "charts/2_line_period_recognized_revenue.svg",
+      "insight_index": "4"
+    },
+    {
+      "title": "产品收入贡献集中度分析",
+      "chart_type": "pareto",
+      "metric": "recognized_revenue",
+      "dimension": "fund_product",
+      "breakdown": "",
+      "path": "charts/3_pareto_fund_product_recognized_revenue.svg",
+      "insight_index": "2"
+    },
+    {
+      "title": "收入与回款率散点图：识别脱节记录",
+      "chart_type": "scatter",
+      "metric": "",
+      "dimension": "",
+      "breakdown": "",
+      "path": "charts/4_scatter.svg",
+      "insight_index": "3"
+    },
+    {
+      "title": "收入复算偏差记录",
+      "chart_type": "bar",
+      "metric": "expected_variance",
+      "dimension": "record_id",
+      "breakdown": "",
+      "path": "charts/5_bar_record_id_expected_variance.svg",
+      "insight_index": "5"
+    }
+  ]
+}

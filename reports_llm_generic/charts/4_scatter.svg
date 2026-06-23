@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460">
+<rect width="900" height="460" fill="#ffffff"/>
+<text x="32" y="38" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#263238">收入与回款率散点图：识别脱节记录</text>
+<text x="32" y="64" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#667085">每个点代表一条收入记录</text>
+<line x1="80" y1="360" x2="820" y2="360" stroke="#d7e0e8"/>
+<line x1="80" y1="100" x2="80" y2="360" stroke="#d7e0e8"/>
+<text x="450.0" y="422" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="12" fill="#667085">账面收入</text>
+<text x="22" y="230.0" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="12" fill="#667085" transform="rotate(-90 22,230.0)">回款率</text>
+<circle cx="820.0" cy="322.9" r="13.0" fill="#2f5f8f" opacity="0.78"><title>R013</title></circle>
+<circle cx="361.9" cy="360.0" r="8.0" fill="#5f7f9f" opacity="0.78"><title>R016</title></circle>
+<circle cx="291.4" cy="100.0" r="7.3" fill="#8aa6c1" opacity="0.78"><title>R017</title></circle>
+<circle cx="185.7" cy="100.0" r="6.1" fill="#486581" opacity="0.78"><title>R014</title></circle>
+<circle cx="157.5" cy="300.9" r="5.8" fill="#b8c9da" opacity="0.78"><title>R015</title></circle>
+<circle cx="297.2" cy="100.0" r="7.3" fill="#d5e0ea" opacity="0.78"><title>R012</title></circle>
+<circle cx="256.2" cy="100.0" r="6.9" fill="#2f5f8f" opacity="0.78"><title>R020</title></circle>
+<circle cx="37.7" cy="360.0" r="5.5" fill="#5f7f9f" opacity="0.78"><title>R019</title></circle>
+<circle cx="94.1" cy="100.0" r="5.2" fill="#8aa6c1" opacity="0.78"><title>R005</title></circle>
+<circle cx="244.1" cy="100.0" r="6.8" fill="#486581" opacity="0.78"><title>R009</title></circle>
+<circle cx="229.6" cy="100.0" r="6.6" fill="#b8c9da" opacity="0.78"><title>R003</title></circle>
+<circle cx="229.6" cy="100.0" r="6.6" fill="#d5e0ea" opacity="0.78"><title>R018</title></circle>
+<circle cx="224.8" cy="100.0" r="6.6" fill="#2f5f8f" opacity="0.78"><title>R001</title></circle>
+<circle cx="215.2" cy="100.0" r="6.5" fill="#5f7f9f" opacity="0.78"><title>R002</title></circle>
+<circle cx="185.7" cy="100.0" r="6.1" fill="#8aa6c1" opacity="0.78"><title>R008</title></circle>
+<circle cx="132.9" cy="100.0" r="5.6" fill="#486581" opacity="0.78"><title>R004</title></circle>
+<circle cx="114.8" cy="100.0" r="5.4" fill="#b8c9da" opacity="0.78"><title>R007</title></circle>
+<circle cx="111.7" cy="100.0" r="5.3" fill="#d5e0ea" opacity="0.78"><title>R011</title></circle>
+<circle cx="109.0" cy="100.0" r="5.3" fill="#2f5f8f" opacity="0.78"><title>R006</title></circle>
+<circle cx="97.6" cy="100.0" r="5.2" fill="#5f7f9f" opacity="0.78"><title>R010</title></circle>
+</svg>

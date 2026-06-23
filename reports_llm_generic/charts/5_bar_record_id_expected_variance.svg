@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="452" viewBox="0 0 920 452">
+<rect width="920" height="452" fill="#ffffff"/>
+<text x="32" y="38" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#263238">收入复算偏差记录</text>
+<text x="32" y="64" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#667085">记录对比 复算差异</text>
+<text x="32" y="113" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" fill="#263238">R013</text>
+<rect x="250" y="92" width="530" height="30" rx="5" fill="#eef3f7"/>
+<rect x="250" y="92" width="530.0" height="30" rx="5" fill="#2f5f8f"/>
+<text x="790.0" y="113" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#263238">120.0万</text>
+<text x="32" y="161" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" fill="#263238">R016</text>
+<rect x="250" y="140" width="530" height="30" rx="5" fill="#eef3f7"/>
+<rect x="250" y="140" width="353.3" height="30" rx="5" fill="#5f7f9f"/>
+<text x="613.3" y="161" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#263238">80.0万</text>
+<text x="32" y="209" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" fill="#263238">R020</text>
+<rect x="250" y="188" width="530" height="30" rx="5" fill="#eef3f7"/>
+<rect x="250" y="188" width="220.8" height="30" rx="5" fill="#8aa6c1"/>
+<text x="480.8" y="209" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#263238">50.0万</text>
+<text x="32" y="257" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" fill="#263238">R017</text>
+<rect x="250" y="236" width="530" height="30" rx="5" fill="#eef3f7"/>
+<rect x="250" y="236" width="132.5" height="30" rx="5" fill="#486581"/>
+<text x="392.5" y="257" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#263238">30.0万</text>
+<text x="32" y="305" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" fill="#263238">R014</text>
+<rect x="250" y="284" width="530" height="30" rx="5" fill="#eef3f7"/>
+<rect x="250" y="284" width="88.3" height="30" rx="5" fill="#b8c9da"/>
+<text x="348.3" y="305" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#263238">20.0万</text>
+<text x="32" y="353" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" fill="#263238">R012</text>
+<rect x="250" y="332" width="530" height="30" rx="5" fill="#eef3f7"/>
+<rect x="250" y="332" width="54.5" height="30" rx="5" fill="#d5e0ea"/>
+<text x="314.5" y="353" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#263238">12.3万</text>
+<text x="32" y="401" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="14" fill="#263238">R015</text>
+<rect x="250" y="380" width="530" height="30" rx="5" fill="#eef3f7"/>
+<rect x="250" y="380" width="52.2" height="30" rx="5" fill="#2f5f8f"/>
+<text x="312.2" y="401" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#263238">11.8万</text>
+</svg>

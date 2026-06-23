@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="420" viewBox="0 0 940 420">
+<rect width="940" height="420" fill="#ffffff"/>
+<text x="32" y="38" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#263238">月度收入趋势与期末暴增</text>
+<text x="32" y="64" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#667085">账面收入随期间变化</text>
+<line x1="72" y1="334" x2="877" y2="334" stroke="#d7e0e8"/>
+<line x1="72" y1="104" x2="72" y2="334" stroke="#d7e0e8"/>
+<polygon points="72.0,334 72.0,313.1 139.1,314.5 206.2,304.8 273.2,332.0 340.3,329.8 407.4,329.0 474.5,318.7 541.6,310.3 608.7,331.5 675.8,329.4 742.8,302.6 809.9,104.0 877.0,318.5 877.0,334" fill="#dbe7f3" opacity="0.9"/>
+<polyline points="72.0,313.1 139.1,314.5 206.2,304.8 273.2,332.0 340.3,329.8 407.4,329.0 474.5,318.7 541.6,310.3 608.7,331.5 675.8,329.4 742.8,302.6 809.9,104.0 877.0,318.5" fill="none" stroke="#2f5f8f" stroke-width="3"/>
+<circle cx="72.0" cy="313.1" r="4" fill="#2f5f8f"/>
+<text x="72.0" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 72.0,358)">2025-01</text>
+<circle cx="139.1" cy="314.5" r="4" fill="#2f5f8f"/>
+<text x="139.1" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 139.1,358)">2025-02</text>
+<circle cx="206.2" cy="304.8" r="4" fill="#2f5f8f"/>
+<text x="206.2" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 206.2,358)">2025-03</text>
+<circle cx="273.2" cy="332.0" r="4" fill="#2f5f8f"/>
+<text x="273.2" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 273.2,358)">2025-04</text>
+<circle cx="340.3" cy="329.8" r="4" fill="#2f5f8f"/>
+<text x="340.3" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 340.3,358)">2025-05</text>
+<circle cx="407.4" cy="329.0" r="4" fill="#2f5f8f"/>
+<text x="407.4" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 407.4,358)">2025-06</text>
+<circle cx="474.5" cy="318.7" r="4" fill="#2f5f8f"/>
+<text x="474.5" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 474.5,358)">2025-07</text>
+<circle cx="541.6" cy="310.3" r="4" fill="#2f5f8f"/>
+<text x="541.6" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 541.6,358)">2025-08</text>
+<circle cx="608.7" cy="331.5" r="4" fill="#2f5f8f"/>
+<text x="608.7" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 608.7,358)">2025-09</text>
+<circle cx="675.8" cy="329.4" r="4" fill="#2f5f8f"/>
+<text x="675.8" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 675.8,358)">2025-10</text>
+<circle cx="742.8" cy="302.6" r="4" fill="#2f5f8f"/>
+<text x="742.8" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 742.8,358)">2025-11</text>
+<circle cx="809.9" cy="104.0" r="4" fill="#2f5f8f"/>
+<text x="809.9" y="94.0" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">452.0万</text>
+<text x="809.9" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 809.9,358)">2025-12</text>
+<circle cx="877.0" cy="318.5" r="4" fill="#2f5f8f"/>
+<text x="877.0" y="358" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 877.0,358)">2026-01</text>
+</svg>

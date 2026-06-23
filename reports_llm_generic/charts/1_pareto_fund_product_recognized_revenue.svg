@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="460" viewBox="0 0 940 460">
+<rect width="940" height="460" fill="#ffffff"/>
+<text x="32" y="38" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#263238">产品收入集中度帕累托图</text>
+<text x="32" y="64" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#667085">柱表示贡献，折线表示累计占比</text>
+<line x1="76" y1="339" x2="866" y2="339" stroke="#d7e0e8"/>
+<rect x="98.9" y="104.0" width="65.5" height="235.0" rx="4" fill="#2f5f8f"/>
+<text x="131.6" y="96.0" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">302.6万</text>
+<text x="131.6" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 131.6,363)">Alpha Growth E</text>
+<rect x="211.8" y="185.2" width="65.5" height="153.8" rx="4" fill="#5f7f9f"/>
+<text x="244.5" y="177.2" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">198.0万</text>
+<text x="244.5" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 244.5,363)">Omega Private </text>
+<rect x="324.6" y="269.9" width="65.5" height="69.1" rx="4" fill="#8aa6c1"/>
+<text x="357.4" y="261.9" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">89.0万</text>
+<text x="357.4" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 357.4,363)">Delta Quant Fo</text>
+<rect x="437.5" y="292.4" width="65.5" height="46.6" rx="4" fill="#486581"/>
+<text x="470.2" y="284.4" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">60.0万</text>
+<text x="470.2" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 470.2,363)">Related Alpha </text>
+<rect x="550.3" y="297.1" width="65.5" height="41.9" rx="4" fill="#b8c9da"/>
+<text x="583.1" y="289.1" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">54.0万</text>
+<text x="583.1" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 583.1,363)">Beta Bond Plus</text>
+<rect x="663.2" y="300.2" width="65.5" height="38.8" rx="4" fill="#d5e0ea"/>
+<text x="695.9" y="292.2" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">50.0万</text>
+<text x="695.9" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 695.9,363)">Sigma Enhanced</text>
+<rect x="776.1" y="307.9" width="65.5" height="31.1" rx="4" fill="#2f5f8f"/>
+<text x="808.8" y="299.9" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">40.1万</text>
+<text x="808.8" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 808.8,363)">Gamma Money Ma</text>
+<polyline points="131.6,249.4 244.5,190.8 357.4,164.4 470.2,146.7 583.1,130.7 695.9,115.9 808.8,104.0" fill="none" stroke="#486581" stroke-width="3"/>
+<circle cx="131.6" cy="249.4" r="4" fill="#486581"/>
+<circle cx="244.5" cy="190.8" r="4" fill="#486581"/>
+<circle cx="357.4" cy="164.4" r="4" fill="#486581"/>
+<circle cx="470.2" cy="146.7" r="4" fill="#486581"/>
+<circle cx="583.1" cy="130.7" r="4" fill="#486581"/>
+<circle cx="695.9" cy="115.9" r="4" fill="#486581"/>
+<circle cx="808.8" cy="104.0" r="4" fill="#486581"/>
+</svg>

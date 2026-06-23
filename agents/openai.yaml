@@ -1,0 +1,8 @@
+interface:
+  display_name: "Revenue Quality Analyzer"
+  short_description: "Analyze revenue quality by model"
+  default_prompt: "Use $revenue-quality-analyzer to analyze revenue quality by business model and generate risk-scored follow-up samples."
+  brand_color: "#2563EB"
+
+policy:
+  allow_implicit_invocation: true

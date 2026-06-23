@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="455" viewBox="0 0 940 455">
+<rect width="940" height="455" fill="#ffffff"/>
+<text x="32" y="38" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#263238">12月收入增长贡献归因</text>
+<text x="32" y="64" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="13" fill="#667085">展示记录对账面收入的累计贡献</text>
+<line x1="70" y1="339" x2="875" y2="339" stroke="#d7e0e8"/>
+<rect x="88.0" y="241.9" width="66.7" height="97.1" rx="4" fill="#2f5f8f"/>
+<line x1="154.7" y1="241.9" x2="203.0" y2="241.9" stroke="#d7e0e8" stroke-dasharray="4 4"/>
+<text x="121.3" y="233.9" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">210.0万</text>
+<text x="121.3" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 121.3,363)">R013</text>
+<rect x="203.0" y="204.9" width="66.7" height="37.0" rx="4" fill="#5f7f9f"/>
+<line x1="269.7" y1="204.9" x2="318.0" y2="204.9" stroke="#d7e0e8" stroke-dasharray="4 4"/>
+<text x="236.3" y="196.9" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">80.0万</text>
+<text x="236.3" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 236.3,363)">R016</text>
+<rect x="318.0" y="176.4" width="66.7" height="28.5" rx="4" fill="#8aa6c1"/>
+<line x1="384.7" y1="176.4" x2="433.0" y2="176.4" stroke="#d7e0e8" stroke-dasharray="4 4"/>
+<text x="351.4" y="168.4" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">61.6万</text>
+<text x="351.4" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 351.4,363)">R012</text>
+<rect x="433.0" y="148.7" width="66.7" height="27.7" rx="4" fill="#486581"/>
+<line x1="499.7" y1="148.7" x2="548.0" y2="148.7" stroke="#d7e0e8" stroke-dasharray="4 4"/>
+<text x="466.4" y="140.7" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">60.0万</text>
+<text x="466.4" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 466.4,363)">R017</text>
+<rect x="548.0" y="125.5" width="66.7" height="23.1" rx="4" fill="#b8c9da"/>
+<line x1="614.7" y1="125.5" x2="663.0" y2="125.5" stroke="#d7e0e8" stroke-dasharray="4 4"/>
+<text x="581.4" y="117.5" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">50.0万</text>
+<text x="581.4" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 581.4,363)">R020</text>
+<rect x="663.0" y="104.0" width="66.7" height="21.5" rx="4" fill="#d5e0ea"/>
+<line x1="729.7" y1="104.0" x2="778.0" y2="104.0" stroke="#d7e0e8" stroke-dasharray="4 4"/>
+<text x="696.4" y="96.0" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">46.6万</text>
+<text x="696.4" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085" transform="rotate(35 696.4,363)">R009</text>
+<rect x="778.0" y="104.0" width="66.7" height="235.0" rx="4" fill="#486581" opacity="0.9"/>
+<text x="811.4" y="96.0" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="11" fill="#263238">508.2万</text>
+<text x="811.4" y="363" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, Arial, sans-serif" font-size="10" fill="#667085">合计</text>
+</svg>
